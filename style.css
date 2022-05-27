@@ -1,11 +1,9 @@
 *
 
 {
-  
+  background-image: url("image/");
   text-align: center;
-
   font-family: Georgia, Arial;
-
 }
 
 
@@ -13,9 +11,7 @@
 figcaption
 
 {
- 
   font-style: italic;
-
 }
 
 
